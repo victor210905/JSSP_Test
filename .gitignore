@@ -1,0 +1,9 @@
+# Thư mục môi trường ảo của Python
+venv/
+
+# Các tệp tạm của Python
+__pycache__/
+*.pyc
+
+# Tệp hệ thống của macOS
+.DS_Store
